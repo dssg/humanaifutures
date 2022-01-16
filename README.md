@@ -65,7 +65,7 @@ This class introduces students to the opportunities and challenges in building h
 ## Grading
 You will be fine if you engage with the content, with your fellow students, with the guest speakwers, and with us (the instructors). We want you to participate nd contribute to the class - through being there, and through discussion, debate, and writing.
 
--Team Project (60%):
+- Team Project (60%):
   - Project Proposal (5%)
   - Project Assignments (15%)
   - Project Presentations (20%)
