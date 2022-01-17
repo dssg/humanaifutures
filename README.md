@@ -2,7 +2,7 @@
 ### Spring 2022: Tues & Thurs, 11:50am-1:10pm (GHC 4102) **Zoom link on Canvas (until Feb 1)**
 
 ### Important 
- - **All content will be on github in this repo including [schedule](README.md#schedule)**
+ - **All content will be on github in this repo including [schedule](README.md#schedule-subject-to-change)**
  - **All assignments will be on and submitted through [canvas](https://canvas.cmu.edu/courses/27949)**
  - **Class communication and announcements will be primarily through email and Slack**
 
