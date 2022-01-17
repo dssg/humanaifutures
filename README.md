@@ -100,13 +100,23 @@ Students will form teams and propose an area where AI is affecting society to fo
 
 **Jan 20:	How is AI being used today in the business world?**
 
-Readings and Videos:
+Read or watch at least one of the articles and videos below (and at least skim the others)  and come to class prepared to discuss them.
+
+*Readings and Videos:*
 - [27 Examples of Artificial Intelligence Shaking Up Business as Usual](https://builtin.com/artificial-intelligence/examples-ai-in-industry)
 - [The Algorithms that make Instacart Roll](https://spectrum.ieee.org/the-algorithms-that-make-instacart-roll)
 - Self Driving Cars: [CNN tests a 'full self-driving' Tesla](https://www.youtube.com/watch?v=2PMu7MD9GvI),[Self Driving Trucks](https://www.youtube.com/watch?v=vMXivgUGVn8)
 - [50 AI Examples from thje World's biggest Companies](https://www.manceps.com/ai-examples)
 
 **Jan 25:	How is AI being used to tackle societal issues?**
+Read or watch at 2-3 of the articles and videos below (and at least skim the others) and come to class prepared to discuss them.
+*Readings and Videos:*
+- [Sedesol](https://www.youtube.com/watch?v=v8lxZnZh6EM&list=PLwU5UOjUFg4K2CM82DNToTyd6lz0oh06i&index=5)
+- [Reducing Jail Recidivism](https://www.youtube.com/watch?v=9-1H8I8wteU&list=PLwU5UOjUFg4K2CM82DNToTyd6lz0oh06i)
+- [Reducing Hazardous Waste Disposal](https://www.youtube.com/watch?v=mruBVPs9Ylg&list=PLwU5UOjUFg4Jg-042dlO_3uesiwyKy8sF)
+- [Reducing Type II Diabetes](https://www.youtube.com/watch?v=SFPVAj8Fefs&list=PLUsfTziJs0NXQoHHURLoZMr4wbH_6PWYU)
+- [Reducing Lead Poisoning in Children](https://www.youtube.com/watch?v=DbplLXRQquI)
+- [How Science Could Help Prevent Police Shootings](https://www.motherjones.com/politics/2016/07/data-prediction-police-misconduct-shootings/), [Additional article](https://fivethirtyeight.com/features/we-now-have-algorithms-to-predict-police-misconduct/)
 
 **Jan 27:	What is AI, what can it do, and how does it work**			
 
