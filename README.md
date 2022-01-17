@@ -1,5 +1,5 @@
 # 66-135: Grand Challenge First Year Seminar - Designing Better Human-AI Futures
-![cover Image](images/cover.jpg)
+![cover Image](images/cover.png)
 ### Spring 2022: Tues & Thurs, 11:50am-1:10pm (GHC 4102) **Zoom link on Canvas (until Feb 1)**
 
 ### Important 
