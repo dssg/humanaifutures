@@ -91,9 +91,14 @@ Students will form teams and propose an area where AI is affecting society to fo
 
 **Jan 18:	Intro and Class Overview**
 
-**Jan 20:	Real-world AI case studies**
+**Jan 20:	How is AI being used today in the business world?**
+Readings and Videos:
+- [27 Examples of Artificial Intelligence Shaking Up Business as Usual](https://builtin.com/artificial-intelligence/examples-ai-in-industry)
+- [The Algorithms that make Instacart Roll] (https://spectrum.ieee.org/the-algorithms-that-make-instacart-roll)
+- Self Driving Cars: [CNN tests a 'full self-driving' Tesla](https://www.youtube.com/watch?v=2PMu7MD9GvI),[Self Driving Trucks](https://www.youtube.com/watch?v=vMXivgUGVn8)
+- [50 AI Examples from thje World's biggest Companies](https://www.manceps.com/ai-examples)
 
-**Jan 25:	What is AI, what can it do, and how does it work**
+**Jan 25:	How is AI being used to tackle societal issues?**
 
 **Jan 27:	What is AI, what can it do, and how does it work**			
 
@@ -103,7 +108,7 @@ Students will form teams and propose an area where AI is affecting society to fo
  - Project Proposal Due
 
 **Feb 8:	Design Thinking and AI**
-- Useless AI workshop		
+- Useless AI workshop	(with Molly Steenson)	
 
 **Feb 10:	Bias and AI overview**			
 
@@ -115,7 +120,7 @@ Students will form teams and propose an area where AI is affecting society to fo
 **Feb 22:	How do we figure out what AI we should build**
 
 **Feb 24:	How do we figure out what AI we should build**
- - Value Sensitive Design Workshop		
+ - Value Sensitive Design Workshop	(with Moll
 
 **Mar 1:	How do we figure out how to tell AI what it needs to do			
 
