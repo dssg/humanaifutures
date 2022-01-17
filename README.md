@@ -99,6 +99,7 @@ Students will form teams and propose an area where AI is affecting society to fo
 **Jan 18:	Intro and Class Overview**
 
 **Jan 20:	How is AI being used today in the business world?**
+
 Readings and Videos:
 - [27 Examples of Artificial Intelligence Shaking Up Business as Usual](https://builtin.com/artificial-intelligence/examples-ai-in-industry)
 - [The Algorithms that make Instacart Roll](https://spectrum.ieee.org/the-algorithms-that-make-instacart-roll)
