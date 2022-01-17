@@ -94,7 +94,7 @@ Students will form teams and propose an area where AI is affecting society to fo
 **Jan 20:	How is AI being used today in the business world?**
 Readings and Videos:
 - [27 Examples of Artificial Intelligence Shaking Up Business as Usual](https://builtin.com/artificial-intelligence/examples-ai-in-industry)
-- [The Algorithms that make Instacart Roll] (https://spectrum.ieee.org/the-algorithms-that-make-instacart-roll)
+- [The Algorithms that make Instacart Roll](https://spectrum.ieee.org/the-algorithms-that-make-instacart-roll)
 - Self Driving Cars: [CNN tests a 'full self-driving' Tesla](https://www.youtube.com/watch?v=2PMu7MD9GvI),[Self Driving Trucks](https://www.youtube.com/watch?v=vMXivgUGVn8)
 - [50 AI Examples from thje World's biggest Companies](https://www.manceps.com/ai-examples)
 
@@ -130,15 +130,15 @@ Readings and Videos:
 
 **Mar 10:	Spring Break	(No Class)**			
 
-Mar 15:	How do we figure out how to tell AI what it needs to do			
+**Mar 15:	How do we figure out how to tell AI what it needs to do**
 
-Mar 17:	How do we figure out how to tell AI what it needs to do			
+**Mar 17:	How do we figure out how to tell AI what it needs to do**			
 
-Mar 22:	Presentations			
+**Mar 22:	Presentations**			
 
-Mar 24	How do we evaluate and monitor what has been built	
+**Mar 24	How do we evaluate and monitor what has been built**	
 
-Mar 29	How do we evaluate and monitor what has been built
+**Mar 29	How do we evaluate and monitor what has been built**
 
 Mar 31	How do we evaluate and monitor what has been built	
 
