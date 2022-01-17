@@ -11,7 +11,7 @@
 ## Instructors
 | Rayid Ghani | Conrad Tucker |
 | --- | --- |
-| <img src='http://www.datasciencepublicpolicy.org/wp-content/uploads/2018/05/RayidGhani-012-400x400.jpg' width='200' height='200' /> <br /> GHC 8023 <br /> Office Hours: <br />  Tue 3-4pm, Wed 4-5pm (or message me for a another timne) | <img src='https://engineering.cmu.edu/_files/images/directory/conradt.png' width="100" /> <br /> Wean 4202 <br /> Office Hours: <br /> TBD |
+| <img src='http://www.datasciencepublicpolicy.org/wp-content/uploads/2018/05/RayidGhani-012-400x400.jpg' width='200' height='200' /> <br /> GHC 8023 <br /> Office Hours: <br />  Tue 3-4pm, Wed 4-5pm (or message me for a another timne) | <img src='https://engineering.cmu.edu/_files/images/directory/conradt.png' width="200" /> <br /> Wean 4202 <br /> Office Hours: <br /> TBD |
 
 
 ## Course Description
