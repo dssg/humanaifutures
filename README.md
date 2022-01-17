@@ -19,7 +19,7 @@ How do we design AI systems that work for everyone and help create a more equita
 
 In this class, through creating, sharing, watching, debating, playing, discussing, engaging, observing, and reading, we will go over these types of questions, exploring and discussing what AI is, how it affects society, how it's designed today, and how it could and possibly shoud be designed. 
 
-Buzzwords we may use in this class: Artificial Intelligence, Design (Human-Centered Design, Iterative Design, Participatory Design, Value-Sensitive Design), Values(Social, Ethical, Policy, Business), Stakeholders
+Buzzwords we will use in this class: Artificial Intelligence, Design (Human-Centered Design, Iterative Design, Participatory Design, Value-Sensitive Design), Values(Social, Ethical, Policy, Business), Stakeholders
 
 ## What we want students to learn
 - Develop critical and analytical skills on issues related to AI and how it impacts people, the public, and society
