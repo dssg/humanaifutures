@@ -10,7 +10,7 @@
 ## Course Description
 How do we design AI systems that work for everyone and help create a more equitable society? Who needs to be involved in desgining these systems? Designers? Engineers? Social Scientists? Computer Scientists? Statisticians? Policymakers? The Public? What should the AI systems be designed to do and achieve? How do they affect society? How should they affect society? What role can all of us play in creating a future where AI can help us become a more equitable society?
 
-In this class, hrough creating, sharing, watching, debating, playing, discussing, engaging, observing, and reading, we will go over these types of questions, exploring and discussing what AI is, how it affects society, how it's designed today, and how it could and possibly shoud be designed. 
+In this class, through creating, sharing, watching, debating, playing, discussing, engaging, observing, and reading, we will go over these types of questions, exploring and discussing what AI is, how it affects society, how it's designed today, and how it could and possibly shoud be designed. 
 
 Buzzwords we may use in this class: Artificial Intelligence, Design (Human-Centered Design, Iterative Design, Participatory Design, Value-Sensitive Design), Values(Social, Ethical, Policy, Business), Stakeholders
 
