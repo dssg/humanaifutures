@@ -22,12 +22,12 @@ In this class, through creating, sharing, watching, debating, playing, discussin
 Buzzwords we may use in this class: Artificial Intelligence, Design (Human-Centered Design, Iterative Design, Participatory Design, Value-Sensitive Design), Values(Social, Ethical, Policy, Business), Stakeholders
 
 ## What we want students to learn
-- Develop your critical and analytical acumen on issues related to AI and how it impacts people, the public, and society
+- Develop critical and analytical skills on issues related to AI and how it impacts people, the public, and society
 - Familiarize yourself with how AI systems are affecting different aspects of society
 - Understand how these AI systems are being designed, developed, and evaluated today
-- Collaborate with diverse and representative stakeholders that should be involved in the design of AI systems
+- Experience collaborating with diverse and representative stakeholders that should be involved in the design of AI systems
 - Explore how these AI systems could (and should) be designed, developed, and evaluated
-- Develop and Communicate your perspectives on AI systems to a broad audience
+- Develop and communicate your perspectives on AI systems to a broad audience
 
 ## Class Structure and Topics
 This class introduces students to the opportunities and challenges in building human-AI collaborative decision-making systems for societal domains such as health, education, criminal justice, transportation, education, and employment.  We take a design approach to issues around the development of AI systems, including working with communities and stakeholders to identify what the AI system is being designed to achieve, designing the system to attempt to achieve those values, and evaluating it on how it impacts humans and society.  We approach the design of AI as a system that needs continual improvement and redesign in order to reduce the risk of biases that may be inherent not only in the data acquired to develop the AI system, but also the biases of the teams that design the AI algorithms, the biases in the design of the AI algorithms themselves, as well as biases in how actions are taken using the outputs of the AI system.  
