@@ -1,11 +1,18 @@
 # 66-135: Grand Challenge First Year Seminar - Designing Better Human-AI Futures
 ![cover Image](images/cover.png)
-### Spring 2022: Tues & Thurs, 11:50am-1:10pm (GHC 4102) **Zoom link on Canvas (until Feb 1)**
+### Spring 2022: Tues & Thurs, 11:50am-1:10pm (GHC 4102) **Zoom link sent by email and on canvas (until Feb 1)**
 
-### Important 
+## Important 
  - **All content will be on github in this repo including [schedule](README.md#schedule-subject-to-change)**
  - **All assignments will be on and submitted through [canvas](https://canvas.cmu.edu/courses/27949)**
  - **Class communication and announcements will be primarily through email and Slack**
+
+
+## Instructors
+| Rayid Ghani | Conrad Tucker |
+| --- | --- |
+| <img src='http://www.datasciencepublicpolicy.org/wp-content/uploads/2018/05/RayidGhani-012-400x400.jpg' width='200' height='200' /> <br /> GHC 8023 <br /> Office Hours: <br />  Tue 3-4pm, Wed 4-5pm (or message me for a another timne) | <img src='https://engineering.cmu.edu/_files/images/directory/conradt.png' /> <br /> Wean 4202 <br /> Office Hours: <br /> TBD |
+
 
 ## Course Description
 How do we design AI systems that work for everyone and help create a more equitable society? Who needs to be involved in desgining these systems? Designers? Engineers? Social Scientists? Computer Scientists? Statisticians? Policymakers? The Public? What should the AI systems be designed to do and achieve? How do they affect society? How should they affect society? What role can all of us play in creating a future where AI can help us become a more equitable society?
