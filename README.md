@@ -88,40 +88,41 @@ Students will form teams and propose an area where AI is affecting society to fo
 
 ## Schedule (subject to change)
 
-**Jan 18:	Intro and Class Overview	**
+**Jan 18:	Intro and Class Overview**
 
 **Jan 20:	Real-world AI case studies**
 
 **Jan 25:	What is AI, what can it do, and how does it work**
 
-**Jan 27:	What is AI, what can it do, and how does it work			
+**Jan 27:	What is AI, what can it do, and how does it work**			
 
-**Feb 1:	What is AI, what can it do, and how does it work			
+**Feb 1:	What is AI, what can it do, and how does it work**			
 
-**Feb 3:	Project Proposal Presentations			Project Proposal Due
+**Feb 3:	Project Proposal Presentations**
+ - Project Proposal Due
 
 **Feb 8:	Design Thinking and AI**
 - Useless AI workshop		
 
-**Feb 10:	Bias and AI overview			
+**Feb 10:	Bias and AI overview**			
 
-**Feb 15:	How do we figure out what AI we should build	
+**Feb 15:	How do we figure out what AI we should build**	
  - Intro to Ethics and Value Systems		
 
-**Feb 17:	How do we figure out what AI we should build			
+**Feb 17:	How do we figure out what AI we should build**			
 
-**Feb 22:	How do we figure out what AI we should build
+**Feb 22:	How do we figure out what AI we should build**
 
 **Feb 24:	How do we figure out what AI we should build**
  - Value Sensitive Design Workshop		
 
 **Mar 1:	How do we figure out how to tell AI what it needs to do			
 
-Mar 3:	How do we figure out how to tell AI what it needs to do 
+**Mar 3:	How do we figure out how to tell AI what it needs to do** 
 
-Mar 8: Spring Break	(No Class)			
+**Mar 8: Spring Break	(No Class)**
 
-Mar 10:	Spring Break	(No Class)					
+**Mar 10:	Spring Break	(No Class)**			
 
 Mar 15:	How do we figure out how to tell AI what it needs to do			
 
