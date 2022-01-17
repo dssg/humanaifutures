@@ -120,7 +120,7 @@ Readings and Videos:
 **Feb 22:	How do we figure out what AI we should build**
 
 **Feb 24:	How do we figure out what AI we should build**
- - Value Sensitive Design Workshop	(with Moll
+ - Value Sensitive Design Workshop	(with Molly Steenson)
 
 **Mar 1:	How do we figure out how to tell AI what it needs to do			
 
