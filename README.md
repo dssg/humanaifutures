@@ -3,7 +3,7 @@
 ### Spring 2022: Tues & Thurs, 11:50am-1:10pm (GHC 4102) **Zoom link sent by email and on canvas (until Feb 1)**
 
 ## Important 
- - **All content will be on github in this repo including [schedule](README.md#schedule-subject-to-change)**
+ - **All content will be here on github including [schedule](README.md#schedule-subject-to-change)**
  - **All assignments will be on and submitted through [canvas](https://canvas.cmu.edu/courses/27949)**
  - **Class communication and announcements will be primarily through email and Slack**
 
@@ -96,12 +96,13 @@ Students will form teams and propose an area where AI is affecting society to fo
 
 ## Schedule (subject to change)
 
-**Jan 18:	Intro and Class Overview**
-[Slides](https://docs.google.com/presentation/d/1nineFv6WIXuPoNPEh03OrgxI873mowph5y0ozxyXZLM/edit#slide=id.p)
+### Jan 18:	Intro and Class Overview**
 
-**Jan 20:	How is AI being used today in the business world?**
+- [Lecture Slides](https://docs.google.com/presentation/d/1nineFv6WIXuPoNPEh03OrgxI873mowph5y0ozxyXZLM/edit#slide=id.p)
 
-Read or watch at least one of the articles and videos below (and at least skim the others)  and come to class prepared to discuss them.
+### Jan 20:	How is AI being used today in the business world?**
+
+**For Class**: Read or watch at least one of the articles and videos below (and at least skim the others)  and come to class prepared to discuss them.
 
 *Readings and Videos:*
 - [27 Examples of Artificial Intelligence Shaking Up Business as Usual](https://builtin.com/artificial-intelligence/examples-ai-in-industry)
@@ -109,7 +110,7 @@ Read or watch at least one of the articles and videos below (and at least skim t
 - Self Driving Cars: [CNN tests a 'full self-driving' Tesla](https://www.youtube.com/watch?v=2PMu7MD9GvI),[Self Driving Trucks](https://www.youtube.com/watch?v=vMXivgUGVn8)
 - [50 AI Examples from thje World's biggest Companies](https://www.manceps.com/ai-examples)
 
-**Jan 25:	How is AI being used to tackle societal issues?**
+### Jan 25:	How is AI being used to tackle societal issues?**
 Read or watch at 2-3 of the articles and videos below (and at least skim the others) and come to class prepared to discuss them.
 *Readings and Videos:*
 - [Sedesol](https://www.youtube.com/watch?v=v8lxZnZh6EM&list=PLwU5UOjUFg4K2CM82DNToTyd6lz0oh06i&index=5)
@@ -119,33 +120,33 @@ Read or watch at 2-3 of the articles and videos below (and at least skim the oth
 - [Reducing Lead Poisoning in Children](https://www.youtube.com/watch?v=DbplLXRQquI)
 - [How Science Could Help Prevent Police Shootings](https://www.motherjones.com/politics/2016/07/data-prediction-police-misconduct-shootings/), [Additional article](https://fivethirtyeight.com/features/we-now-have-algorithms-to-predict-police-misconduct/)
 
-*Assignment:* Submit the topics (on canvas) you're interested in for your class project in order for us to make teams.
+[:warning:] *Assignment:* Submit the topics (on canvas) you're interested in for your class project in order for us to make teams.
 
-**Jan 27:	What is AI, what can it do, and how does it work**			
+### Jan 27:	What is AI, what can it do, and how does it work			
 
-**Feb 1:	What is AI, what can it do, and how does it work**			
+### Feb 1:	What is AI, what can it do, and how does it work			
 
-**Feb 3:	Project Proposal Presentations**
+### Feb 3:	Project Proposal Presentations
  - Project Proposal Due
 
-**Feb 8:	Design Thinking and AI**
+### Feb 8:	Design Thinking and AI
 - Useless AI workshop	(with Molly Steenson)	
 
-**Feb 10:	Bias and AI overview**			
+### Feb 10:	Bias and AI overview**			
 
-**Feb 15:	How do we figure out what AI we should build**	
- - Intro to Ethics and Value Systems		
+### Feb 15:	How do we figure out what AI we should build
+ - Intro to Ethics and Value Systems: Guest Lecture by [Alex London](https://www.cmu.edu/dietrich/philosophy/people/faculty/london.html)	
 
-**Feb 17:	How do we figure out what AI we should build**			
+### Feb 17:	How do we figure out what AI we should build		
 
-**Feb 22:	How do we figure out what AI we should build**
+### Feb 22:	How do we figure out what AI we should build
 
-**Feb 24:	How do we figure out what AI we should build**
+### Feb 24:	How do we figure out what AI we should build
  - Value Sensitive Design Workshop	(with Molly Steenson)
 
-**Mar 1:	How do we figure out how to tell AI what it needs to do			
+### Mar 1:	How do we figure out how to tell AI what it needs to do			
 
-**Mar 3:	How do we figure out how to tell AI what it needs to do** 
+### Mar 3:	How do we figure out how to tell AI what it needs to do*
 
 **Mar 8: Spring Break	(No Class)**
 
