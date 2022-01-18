@@ -96,11 +96,11 @@ Students will form teams and propose an area where AI is affecting society to fo
 
 ## Schedule (subject to change)
 
-### Jan 18:	Intro and Class Overview**
+### Jan 18:	Intro and Class Overview
 
 - [Lecture Slides](https://docs.google.com/presentation/d/1nineFv6WIXuPoNPEh03OrgxI873mowph5y0ozxyXZLM/edit#slide=id.p)
 
-### Jan 20:	How is AI being used today in the business world?**
+### Jan 20:	How is AI being used today in the business world?
 
 **For Class**: Read or watch at least one of the articles and videos below (and at least skim the others)  and come to class prepared to discuss them.
 
@@ -110,7 +110,7 @@ Students will form teams and propose an area where AI is affecting society to fo
 - Self Driving Cars: [CNN tests a 'full self-driving' Tesla](https://www.youtube.com/watch?v=2PMu7MD9GvI),[Self Driving Trucks](https://www.youtube.com/watch?v=vMXivgUGVn8)
 - [50 AI Examples from thje World's biggest Companies](https://www.manceps.com/ai-examples)
 
-### Jan 25:	How is AI being used to tackle societal issues?**
+### Jan 25:	How is AI being used to tackle societal issues?
 Read or watch at 2-3 of the articles and videos below (and at least skim the others) and come to class prepared to discuss them.
 *Readings and Videos:*
 - [Sedesol](https://www.youtube.com/watch?v=v8lxZnZh6EM&list=PLwU5UOjUFg4K2CM82DNToTyd6lz0oh06i&index=5)
@@ -146,41 +146,41 @@ Read or watch at 2-3 of the articles and videos below (and at least skim the oth
 
 ### Mar 1:	How do we figure out how to tell AI what it needs to do			
 
-### Mar 3:	How do we figure out how to tell AI what it needs to do*
+### Mar 3:	How do we figure out how to tell AI what it needs to do
 
-**Mar 8: Spring Break	(No Class)**
+### Mar 8: Spring Break	(No Class)
 
-**Mar 10:	Spring Break	(No Class)**			
+### Mar 10:	Spring Break	(No Class)		
 
-**Mar 15:	How do we figure out how to tell AI what it needs to do**
+### Mar 15:	How do we figure out how to tell AI what it needs to do
 
-**Mar 17:	How do we figure out how to tell AI what it needs to do**			
+### Mar 17:	How do we figure out how to tell AI what it needs to do		
 
-**Mar 22:	Presentations**			
+### Mar 22:	Presentations		
 
-**Mar 24	How do we evaluate and monitor what has been built**	
+### Mar 24:	How do we evaluate and monitor what has been built
 
-**Mar 29	How do we evaluate and monitor what has been built**
+### Mar 29:	How do we evaluate and monitor what has been built
 
-Mar 31	How do we evaluate and monitor what has been built	
+### Mar 31:	How do we evaluate and monitor what has been built	
 
-Apr 5	How do we evaluate and monitor what has been built	
+### Apr 5:	How do we evaluate and monitor what has been built	
 
-Apr 7	No Class		
+### Apr 7:	No Class		
 
-Apr 12	Bias and AI deeper dive			
+### Apr 12:	Bias and AI deeper dive			
 
-Apr 14	Bias and AI deeper dive			
+### Apr 14:	Bias and AI deeper dive			
 
-Apr 19	Bias and AI deeper dive		
+### Apr 19	Bias and AI deeper dive		
 
-Apr 21	Bias and AI deeper dive			
+### Apr 21:	Bias and AI deeper dive			
 
-Apr 26	Final Presentations		
+### Apr 26:	Final Presentations		
 
-Apr 28	Final Presentations
+### Apr 28:	Final Presentations
 
-May 5	Finals Week	(No final for this class)	Final Report Due
+### May 5:	Finals Week	(No final for this class)	Final Report Due
 
 ## Class attendance and participation 
 Class attendance and participation are critical in this course. To account for this, a portion of the final grade is based on your regular attendance and active participation (see grading section). That said, we also recognize that students may need to miss class for a variety of reasons, especially with the situation we are in currently. When you must miss class, please notify us (at least 24 hours in advance except for illness/emergency), so that we can discuss alternative arrangements for catching up on class and associated work. If you encounter extenuating circumstances and must miss more than two classes, please come and discuss with us; we would like to find a way to support you.
