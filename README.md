@@ -118,7 +118,7 @@ Read or watch at 2-3 of the articles and videos below (and at least skim the oth
 - [Reducing Lead Poisoning in Children](https://www.youtube.com/watch?v=DbplLXRQquI)
 - [How Science Could Help Prevent Police Shootings](https://www.motherjones.com/politics/2016/07/data-prediction-police-misconduct-shootings/), [Additional article](https://fivethirtyeight.com/features/we-now-have-algorithms-to-predict-police-misconduct/)
 
-*Assignment:* Submit the topics (on canvas) you're intereted in for your class project in order for us to make teams
+*Assignment:* Submit the topics (on canvas) you're interested in for your class project in order for us to make teams.
 
 **Jan 27:	What is AI, what can it do, and how does it work**			
 
