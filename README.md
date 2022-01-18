@@ -97,6 +97,7 @@ Students will form teams and propose an area where AI is affecting society to fo
 ## Schedule (subject to change)
 
 **Jan 18:	Intro and Class Overview**
+[Slides](https://docs.google.com/presentation/d/1nineFv6WIXuPoNPEh03OrgxI873mowph5y0ozxyXZLM/edit#slide=id.p)
 
 **Jan 20:	How is AI being used today in the business world?**
 
