@@ -87,7 +87,7 @@ You will be fine if you engage with the content, with your fellow students, with
 Students will form teams and propose an area where AI is affecting society to focus on for the semester. These areas may include issues such as healthcare, hiring, entertainment, criminal justice, social networks, education, etc. The project will have the following components:
 
 - Background research: What types of AI systems have been developed in this areas? What do they do? Who has designed them? Who is using them? How well are they working? What are some benefits of it? What are some criticisms? How much information is available about them?
-- Existing Values: What ethical, social, and business values have been encoded in the current systems? How are the tradeofs determined?
+- Existing Values: What ethical, social, and business values have been encoded in the current systems? How (and by whom) are the tradeoffs determined?
 - Desired Values: What values should it have? Who needs to be involved in determining these values? How should those values be disclosed and verified?
 - AI System Design and Development: What AI components are needed to build a system that achieves the desired values? How should they be put together? What should they  
 - AI System Validation: How will you validate that the AI system is doing what it was designed to do? How will you validate that it is having the impact it was designed to have?
