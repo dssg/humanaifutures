@@ -113,6 +113,7 @@ Students will form teams and propose an area where AI is affecting society to fo
 ### Jan 25:	How is AI being used to tackle societal issues?
 Read or watch at 2-3 of the articles and videos below (and at least skim the others) and come to class prepared to discuss them.
 *Readings and Videos:*
+- [AI for Social Good](https://arxiv.org/pdf/1901.05406.pdf)
 - [Matching people in need to social services to benefits](https://www.youtube.com/watch?v=v8lxZnZh6EM&list=PLwU5UOjUFg4K2CM82DNToTyd6lz0oh06i&index=5)
 - [Reducing Jail Recidivism](https://www.youtube.com/watch?v=9-1H8I8wteU&list=PLwU5UOjUFg4K2CM82DNToTyd6lz0oh06i)
 - [Reducing Hazardous Waste Disposal](https://www.youtube.com/watch?v=mruBVPs9Ylg&list=PLwU5UOjUFg4Jg-042dlO_3uesiwyKy8sF)
