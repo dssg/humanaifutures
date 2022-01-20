@@ -113,14 +113,14 @@ Students will form teams and propose an area where AI is affecting society to fo
 ### Jan 25:	How is AI being used to tackle societal issues?
 Read or watch at 2-3 of the articles and videos below (and at least skim the others) and come to class prepared to discuss them.
 *Readings and Videos:*
-- [Sedesol](https://www.youtube.com/watch?v=v8lxZnZh6EM&list=PLwU5UOjUFg4K2CM82DNToTyd6lz0oh06i&index=5)
+- [Matching people in need to social services to benefits](https://www.youtube.com/watch?v=v8lxZnZh6EM&list=PLwU5UOjUFg4K2CM82DNToTyd6lz0oh06i&index=5)
 - [Reducing Jail Recidivism](https://www.youtube.com/watch?v=9-1H8I8wteU&list=PLwU5UOjUFg4K2CM82DNToTyd6lz0oh06i)
 - [Reducing Hazardous Waste Disposal](https://www.youtube.com/watch?v=mruBVPs9Ylg&list=PLwU5UOjUFg4Jg-042dlO_3uesiwyKy8sF)
 - [Reducing Type II Diabetes](https://www.youtube.com/watch?v=SFPVAj8Fefs&list=PLUsfTziJs0NXQoHHURLoZMr4wbH_6PWYU)
 - [Reducing Lead Poisoning in Children](https://www.youtube.com/watch?v=DbplLXRQquI)
 - [How Science Could Help Prevent Police Shootings](https://www.motherjones.com/politics/2016/07/data-prediction-police-misconduct-shootings/), [Additional article](https://fivethirtyeight.com/features/we-now-have-algorithms-to-predict-police-misconduct/)
 
-[:warning:] *Assignment:* Submit the topics (on canvas) you're interested in for your class project in order for us to make teams.
+[:warning:] [*Assignment:*](https://canvas.cmu.edu/courses/27949/assignments/457467) Submit the topics (on canvas) you're interested in for your class project in order for us to make teams.
 
 ### Jan 27:	What is AI, what can it do, and how does it work			
 
