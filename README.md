@@ -140,7 +140,7 @@ Students will form teams and propose an area where AI is affecting society to fo
 ### Feb 8:	Design Thinking and AI
 - Useless AI workshop	(with Molly Steenson)	
 
-### Feb 10:	Bias and AI overview**			
+### Feb 10:	Bias and AI overview		
 
 ### Feb 15:	How do we figure out what AI we should build
  - Intro to Ethics and Value Systems: Guest Lecture by [Alex London](https://www.cmu.edu/dietrich/philosophy/people/faculty/london.html)	
