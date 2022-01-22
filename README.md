@@ -21,7 +21,7 @@ In this class, through creating, sharing, watching, debating, playing, discussin
 
 Buzzwords we will use in this class: Artificial Intelligence, Design (Human-Centered Design, Iterative Design, Participatory Design, Value-Sensitive Design), Values(Social, Ethical, Policy, Business), Stakeholders
 
-## What we want students to learn
+## What we want you (the students) to learn
 - Develop critical and analytical skills on issues related to AI and how it impacts people, the public, and society
 - Familiarize yourself with how AI systems are affecting different aspects of society
 - Understand how these AI systems are being designed, developed, and evaluated today
@@ -34,14 +34,17 @@ This class introduces students to the opportunities and challenges in building h
 
 **Module 1: Intro and Primer on AI and Design Thinking**
 - Intro to AI
-  - AI and Society Case Studies
+  - AI Use cases
+    - AI and Business Case Studies
+    - AI and Society Case Studies
   - What is AI?
-  - What can it do?
-  - How does it do what it does?
-  - How is it designed?
-- Intro to Design Thinking, Human-Centered Design, and Participatory Research Methods
-  - …
-  - …
+    - What can it do?
+    - How does it do what it does?
+    - How is it designed?
+- Intro to Design Thinking, Value-Sensitive and Human-Centered Design, and Participatory Research Methods
+  - Human-Centered Design
+  - Value-Sensiotive Design
+  - Participatory Research Methods
 
 **Module 2: What values should an AI system have?**
 - Intro to ethics and value systems
@@ -98,7 +101,7 @@ Students will form teams and propose an area where AI is affecting society to fo
 
 ### Jan 18:	Intro and Class Overview
 
-- [Lecture Slides](https://docs.google.com/presentation/d/1nineFv6WIXuPoNPEh03OrgxI873mowph5y0ozxyXZLM/edit#slide=id.p)
+-  <img src='images/lectureicon.png' width='50'/> [Lecture Slides (https://docs.google.com/presentation/d/1nineFv6WIXuPoNPEh03OrgxI873mowph5y0ozxyXZLM/edit#slide=id.p)
 
 ### Jan 20:	How is AI being used today in the business world?
 
