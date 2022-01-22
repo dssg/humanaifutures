@@ -17,9 +17,9 @@
 ## Course Description
 How do we design AI systems that work for everyone and help create a more equitable society? Who needs to be involved in desgining these systems? Designers? Engineers? Social Scientists? Computer Scientists? Statisticians? Policymakers? The Public? What should the AI systems be designed to do and achieve? How do they affect society? How should they affect society? What role can all of us play in creating a future where AI can help us become a more equitable society?
 
-In this class, through creating, sharing, watching, debating, playing, discussing, engaging, observing, and reading, we will go over these types of questions, exploring and discussing what AI is, how it affects society, how it's designed today, and how it could and possibly shoud be designed. 
+In this class, through creating, sharing, watching, debating, playing, discussing, engaging, observing, and reading, we will go over these types of questions, exploring and discussing what AI is, how it affects society, how it's designed today, and how it could and shoud be designed. 
 
-Buzzwords we will use in this class: Artificial Intelligence, Design (Human-Centered Design, Iterative Design, Participatory Design, Value-Sensitive Design), Values(Social, Ethical, Policy, Business), Stakeholders
+Buzzwords we will use in this class: Artificial Intelligence, Design (Human-Centered Design, Iterative Design, Participatory Design, Value-Sensitive Design), Values (Social, Ethical, Policy, Business), Stakeholders
 
 ## What we want you (the students) to learn
 - Develop critical and analytical skills on issues related to AI and how it impacts people, the public, and society
@@ -89,12 +89,12 @@ You will be fine if you engage with the content, with your fellow students, with
 
 Students will form teams and propose an area where AI is affecting society to focus on for the semester. These areas may include issues such as healthcare, hiring, entertainment, criminal justice, social networks, education, etc. The project will have the following components:
 
-- Background research: What types of AI systems have been developed in this areas? What do they do? Who has designed them? Who is using them? How well are they working? What are some benefits of it? What are some criticisms? How much information is available about them?
-- Existing Values: What ethical, social, and business values have been encoded in the current systems? How (and by whom) are the tradeoffs determined?
-- Desired Values: What values should it have? Who needs to be involved in determining these values? How should those values be disclosed and verified?
-- AI System Design and Development: What AI components are needed to build a system that achieves the desired values? How should they be put together? What should they  
-- AI System Validation: How will you validate that the AI system is doing what it was designed to do? How will you validate that it is having the impact it was designed to have?
-- Dealing with Bias and Equity: What could be some of the biases that could be embedded in the AI system? How could it impact equity for specific groups affected by the AI system?
+- **Background research**: What types of AI systems have been developed in this areas? What do they do? Who has designed them? Who is using them? How well are they working? What are some benefits of it? What are some criticisms? How much information is available about them?
+- **Existing Values**: What ethical, social, and business values have been encoded in the current systems? How (and by whom) are the tradeoffs determined?
+- **Desired Values**: What values should it have? Who needs to be involved in determining these values? How should those values be disclosed and verified?
+- **AI System Design and Development**: What AI components are needed to build a system that achieves the desired values? How should they be put together? What should they  
+- **AI System Validation**: How will you validate that the AI system is doing what it was designed to do? How will you validate that it is having the impact it was designed to have?
+- **Dealing with Bias and Equity**: What could be some of the biases that could be embedded in the AI system? How could it impact equity for specific groups affected by the AI system?
 
 
 ## Schedule (subject to change)
@@ -138,7 +138,7 @@ Students will form teams and propose an area where AI is affecting society to fo
  - Project Proposal Due
 
 ### Feb 8:	Design Thinking and AI
-- Useless AI workshop	(with Molly Steenson)	
+- Useless AI workshop	(with [Molly Steenson](http://www.girlwonder.com/))   
 
 ### Feb 10:	Bias and AI overview		
 
