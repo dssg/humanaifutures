@@ -105,6 +105,7 @@ Students will form teams and propose an area where AI is affecting society to fo
 
 ### Jan 20:	How is AI being used today in the business world?
 
+- <img src='images/lectureicon.png' width='25'/> [Lecture Slides] (https://docs.google.com/presentation/d/1ZIfrAq4kdhIakNvwDRz4Zu9SoVZ4YMRBRC1pkXUS1k0/edit#slide=id.p)
 **For Class**: Read or watch at least one of the articles and videos below (and at least skim the others)  and come to class prepared to discuss them.
 
 *Readings and Videos:*
@@ -114,6 +115,7 @@ Students will form teams and propose an area where AI is affecting society to fo
 - [50 AI Examples from thje World's biggest Companies](https://www.manceps.com/ai-examples)
 
 ### Jan 25:	How is AI being used to tackle societal issues?
+- <img src='images/lectureicon.png' width='25'/> [Lecture Slides](https://docs.google.com/presentation/d/1GuuZGcMuUWKEQtc6V7eD4YptIGrUVc6JhJl53CrUPlM/edit#slide=id.g10f765bcf59_1_0)
 Read or watch at 2-3 of the articles and videos below (and at least skim the others) and come to class prepared to discuss them.
 *Readings and Videos:*
 - [AI for Social Good](https://arxiv.org/pdf/1901.05406.pdf)
