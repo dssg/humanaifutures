@@ -101,7 +101,7 @@ Students will form teams and propose an area where AI is affecting society to fo
 
 ### Jan 18:	Intro and Class Overview
 
--  <img src='images/lectureicon.png' width='50'/> [Lecture Slides (https://docs.google.com/presentation/d/1nineFv6WIXuPoNPEh03OrgxI873mowph5y0ozxyXZLM/edit#slide=id.p)
+-  <img src='images/lectureicon.png' width='25'/> [Lecture Slides] (https://docs.google.com/presentation/d/1nineFv6WIXuPoNPEh03OrgxI873mowph5y0ozxyXZLM/edit#slide=id.p)
 
 ### Jan 20:	How is AI being used today in the business world?
 
