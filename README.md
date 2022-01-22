@@ -43,7 +43,7 @@ This class introduces students to the opportunities and challenges in building h
     - How is it designed?
 - Intro to Design Thinking, Value-Sensitive and Human-Centered Design, and Participatory Research Methods
   - Human-Centered Design
-  - Value-Sensiotive Design
+  - Value-Sensitive Design
   - Participatory Research Methods
 
 **Module 2: What values should an AI system have?**
