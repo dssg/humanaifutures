@@ -97,6 +97,10 @@ Students will form teams and propose an area where AI is affecting society to fo
 - **AI System Validation**: How will you validate that the AI system is doing what it was designed to do? How will you validate that it is having the impact it was designed to have?
 - **Dealing with Bias and Equity**: What could be some of the biases that could be embedded in the AI system? How could it impact equity for specific groups affected by the AI system?
 
+### Propject Assignments
+
+Each team will submit short assignments, do presentations, and lead as well as participate in discussions around these components for the issue you propose to work on through the semester.
+
 
 ## Schedule (subject to change)
 
