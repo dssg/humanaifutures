@@ -119,6 +119,7 @@ Each team will submit short assignments, do presentations, and lead as well as p
 - [The Algorithms that make Instacart Roll](https://spectrum.ieee.org/the-algorithms-that-make-instacart-roll)
 - Self Driving Cars: [CNN tests a 'full self-driving' Tesla](https://www.youtube.com/watch?v=2PMu7MD9GvI),[Self Driving Trucks](https://www.youtube.com/watch?v=vMXivgUGVn8)
 - [50 AI Examples from thje World's biggest Companies](https://www.manceps.com/ai-examples)
+- [Robots abd Retail](https://youtu.be/0e0fdD5DpEI) A BBC Video
 
 ### Jan 25:	How is AI being used to tackle societal issues?
 - <img src='images/lectureicon.png' width='25'/> [Lecture Slides](https://docs.google.com/presentation/d/1GuuZGcMuUWKEQtc6V7eD4YptIGrUVc6JhJl53CrUPlM/edit#slide=id.g10f765bcf59_1_0)
