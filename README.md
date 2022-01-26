@@ -135,7 +135,7 @@ Each team will submit short assignments, do presentations, and lead as well as p
 - [Proactive Lead Inspections to Reduce Lead Poisoning in Children](https://www.youtube.com/watch?v=DbplLXRQquI)
 - [How Science Could Help Prevent Police Shootings](https://www.motherjones.com/politics/2016/07/data-prediction-police-misconduct-shootings/), [Additional article](https://fivethirtyeight.com/features/we-now-have-algorithms-to-predict-police-misconduct/)
 
-<img src='images/assignment_blue.png' width='25'/> [*Assignment:*](https://canvas.cmu.edu/courses/27949/assignments/457467) Submit the topics (on canvas) you're interested in for your class project in order for us to make teams.
+<img src='images/assignment_orange.png' width='25'/> [*Assignment:*](https://canvas.cmu.edu/courses/27949/assignments/457467) Submit the topics (on canvas) you're interested in for your class project in order for us to make teams.
 
 ### Jan 27:	What is AI, what can it do, and how does it work	
 *Readings:*
