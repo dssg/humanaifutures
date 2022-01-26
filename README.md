@@ -11,7 +11,7 @@
 ## Instructors
 | [Rayid Ghani](http://www.rayidghani.com) | [Conrad Tucker](https://engineering.cmu.edu/directory/bios/tucker-conrad.html) |
 | --- | --- |
-| <img src='http://www.datasciencepublicpolicy.org/wp-content/uploads/2018/05/RayidGhani-012-400x400.jpg' width='200' height='200' /> <br /> GHC 8023 <br /> Office Hours: <br />  Tue 3-4pm, Wed 4-5pm  | <img src='images/conrad.png' width="200" /> <br /> Wean 4202 <br /> Office Hours: <br /> TBD |
+| <img src='images/rayid.jpg' width='200' height='200' /> <br /> GHC 8023 <br /> Office Hours: <br />  Tue 3-4pm, Wed 4-5pm  | <img src='images/conrad.png' width="200" /> <br /> Wean 4202 <br /> Office Hours: <br /> TBD |
 
 Thank you to Molly Steenson for helping create this class and providing valuable advice and content in designing it.
 
