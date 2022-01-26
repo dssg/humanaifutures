@@ -101,6 +101,8 @@ Students will form teams and propose an area where AI is affecting society to fo
 ### Propject Assignments
 
 Each team will submit short assignments, do presentations, and lead as well as participate in discussions around these components for the issue you propose to work on through the semester.
+1. Project Proposal (Due Feb 7th)
+
 
 
 ## Schedule (subject to change)
@@ -151,7 +153,7 @@ Each team will submit short assignments, do presentations, and lead as well as p
 ### Feb 8:	Design Thinking and AI
 - Useless AI workshop	(with [Molly Steenson](http://www.girlwonder.com/)) 
 
- :warning: [*Assignment:*](https://canvas.cmu.edu/courses/27949/assignments/457363) Project Proposal due Feb 7th
+<img src='images/assignment_orange.png' width='25'/> [*Assignment:*](https://canvas.cmu.edu/courses/27949/assignments/457363) Project Proposal due Feb 7th
 
 ### Feb 10:	Project Proposal Presentations		
 
