@@ -136,7 +136,9 @@ Each team will submit short assignments, do presentations, and lead as well as p
 
 [:warning:] [*Assignment:*](https://canvas.cmu.edu/courses/27949/assignments/457467) Submit the topics (on canvas) you're interested in for your class project in order for us to make teams.
 
-### Jan 27:	What is AI, what can it do, and how does it work			
+### Jan 27:	What is AI, what can it do, and how does it work	
+*Readings:*
+- You look like a thing and I love you, by Jannelle Shane [Chapters 1 and 2 - canvas link](https://canvas.cmu.edu/files/7588921/download?download_frd=1)
 
 ### Feb 1:	What is AI, what can it do, and how does it work			
 
