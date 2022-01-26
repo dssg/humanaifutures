@@ -135,7 +135,7 @@ Each team will submit short assignments, do presentations, and lead as well as p
 - [Proactive Lead Inspections to Reduce Lead Poisoning in Children](https://www.youtube.com/watch?v=DbplLXRQquI)
 - [How Science Could Help Prevent Police Shootings](https://www.motherjones.com/politics/2016/07/data-prediction-police-misconduct-shootings/), [Additional article](https://fivethirtyeight.com/features/we-now-have-algorithms-to-predict-police-misconduct/)
 
-[:warning:] [*Assignment:*](https://canvas.cmu.edu/courses/27949/assignments/457467) Submit the topics (on canvas) you're interested in for your class project in order for us to make teams.
+:warning: [*Assignment:*](https://canvas.cmu.edu/courses/27949/assignments/457467) Submit the topics (on canvas) you're interested in for your class project in order for us to make teams.
 
 ### Jan 27:	What is AI, what can it do, and how does it work	
 *Readings:*
@@ -151,7 +151,7 @@ Each team will submit short assignments, do presentations, and lead as well as p
 ### Feb 8:	Design Thinking and AI
 - Useless AI workshop	(with [Molly Steenson](http://www.girlwonder.com/)) 
 
- [:warning:] [*Assignment:*](https://canvas.cmu.edu/courses/27949/assignments/457363) Project Proposal due Feb 7th
+ :warning: [*Assignment:*](https://canvas.cmu.edu/courses/27949/assignments/457363) Project Proposal due Feb 7th
 
 ### Feb 10:	Project Proposal Presentations		
 
