@@ -140,16 +140,20 @@ Each team will submit short assignments, do presentations, and lead as well as p
 ### Jan 27:	What is AI, what can it do, and how does it work	
 *Readings:*
 - You look like a thing and I love you, by Jannelle Shane [Chapters 1 and 2 - canvas link](https://canvas.cmu.edu/files/7588921/download?download_frd=1)
+- [Machine Learning](https://textbook.coleridgeinitiative.org/chap-ml.html) (Book Chapter from Big Data and Social Science). Read sections 7.1 through 7.5
 
 ### Feb 1:	What is AI, what can it do, and how does it work			
+*Readings and Videos:*
+- [Lecture Video from 10301 Class at CMU](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bdad08bc-69ac-4ece-a724-ae2201217e37) (Taught by Matt Gormley) (Watch the first hour)
 
-### Feb 3:	Project Proposal Presentations
- - Project Proposal Due
+### Feb 3:	What is AI, what can it do, and how does it work	
 
 ### Feb 8:	Design Thinking and AI
-- Useless AI workshop	(with [Molly Steenson](http://www.girlwonder.com/))   
+- Useless AI workshop	(with [Molly Steenson](http://www.girlwonder.com/)) 
 
-### Feb 10:	Bias and AI overview		
+ [:warning:] [*Assignment:*](https://canvas.cmu.edu/courses/27949/assignments/457363) Project Proposal due Feb 7th
+
+### Feb 10:	Project Proposal Presentations		
 
 ### Feb 15:	How do we figure out what AI we should build
  - Intro to Ethics and Value Systems: Guest Lecture by [Alex London](https://www.cmu.edu/dietrich/philosophy/people/faculty/london.html)	
