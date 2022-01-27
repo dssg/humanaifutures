@@ -140,6 +140,9 @@ Each team will submit short assignments, do presentations, and lead as well as p
 <img src='images/assignment_orange.png' width='25'/> [*Assignment:*](https://canvas.cmu.edu/courses/27949/assignments/457467) Submit the topics (on canvas) you're interested in for your class project in order for us to make teams.
 
 ### Jan 27:	What is AI, what can it do, and how does it work	
+
+-  <img src='images/lectureicon.png' width='25'/> [Lecture Slides](https://docs.google.com/presentation/d/1ir48mdHdzQgehYTZLEEF25RAGMKJ_l37xX-AzaiHS7g/edit#slide=id.p)
+
 *Readings:*
 - You look like a thing and I love you, by Jannelle Shane [Chapters 1 and 2 - canvas link](https://canvas.cmu.edu/files/7588921/download?download_frd=1)
 - [Machine Learning](https://textbook.coleridgeinitiative.org/chap-ml.html) (Book Chapter from Big Data and Social Science). Read sections 7.1 through 7.5
