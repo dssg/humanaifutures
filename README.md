@@ -143,6 +143,7 @@ Each team will submit short assignments, do presentations, and lead as well as p
 <img src='images/assignment_orange.png' width='25'/> [*Assignment:*](https://canvas.cmu.edu/courses/27949/assignments/457467) Submit the topics (on canvas) you're interested in for your class project in order for us to make teams.
 
 ### Jan 27:	What is AI, what can it do, and how does it work	
+**Before Class**: Read the articles linked below and come to class prepared to discuss them.
 
 -  <img src='images/lectureicon.png' width='25'/> [Lecture Slides](https://docs.google.com/presentation/d/1ir48mdHdzQgehYTZLEEF25RAGMKJ_l37xX-AzaiHS7g/edit#slide=id.p)
 
@@ -151,10 +152,15 @@ Each team will submit short assignments, do presentations, and lead as well as p
 - [Machine Learning](https://textbook.coleridgeinitiative.org/chap-ml.html) (Book Chapter from Big Data and Social Science). Read sections 7.1 through 7.5
 
 ### Feb 1:	What is AI, what can it do, and how does it work			
+**Before Class**: Watch the video linked below and come to class prepared to discuss it.
 *Readings and Videos:*
 - [Lecture Video from 10301 Class at CMU](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bdad08bc-69ac-4ece-a724-ae2201217e37) (Taught by Matt Gormley) (Watch the first hour)
 
 ### Feb 3:	What is AI, what can it do, and how does it work	
+**Before Class**: Read the articles linked below and come to class prepared to discuss them.
+
+*Readings and Videos:*
+- A visual introduction to machine learning. [Part 1]([http://www.r2d3.us/visual-intro-to-machine-learning-part-1/]) and [Part 2](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)
 
 ### Feb 8:	Design Thinking and AI
 - Useless AI workshop	(with [Molly Steenson](http://www.girlwonder.com/)) 
