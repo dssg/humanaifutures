@@ -172,14 +172,19 @@ Each team will submit short assignments, do presentations, and lead as well as p
 
 <img src='images/assignment_orange.png' width='25'/> [*Assignment:*](https://canvas.cmu.edu/courses/27949/assignments/462030) Project Proposal Reviews (Due Feb 14th)
 
-
 ### Feb 17:	How do we figure out what AI we should build		
+*Readings:*
+- [User Needs + Defining Success](https://pair.withgoogle.com/chapter/user-needs/)
 
 ### Feb 22:	How do we figure out what AI we should build
 - Guest Lecture by [Sarah Fox](https://www.sarahfox.info/)
 
 ### Feb 24:	How do we figure out what AI we should build
  - Value Sensitive Design Workshop	(with Molly Steenson)
+
+*Readings:*
+ - [Human values matter: why value-sensitive design should be part of every UX designer’s toolkit](https://uxdesign.cc/human-values-matter-why-value-sensitive-design-should-be-part-of-every-ux-designers-toolkit-e53ffe7ec436)
+ - [Value Sensitive Design and Information Systems](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.138.1155&rep=rep1&type=pdf)(Skim this reading)
 
 ### Mar 1:	How do we figure out how to tell AI what it needs to do			
 
