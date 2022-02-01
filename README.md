@@ -160,7 +160,7 @@ Each team will submit short assignments, do presentations, and lead as well as p
 **Before Class**: Read the articles linked below and come to class prepared to discuss them.
 
 *Readings and Videos:*
-- A visual introduction to machine learning. [Part 1]([http://www.r2d3.us/visual-intro-to-machine-learning-part-1/]) and [Part 2](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)
+- A visual introduction to machine learning. [Part 1]([http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) and [Part 2](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)
 
 ### Feb 8:	Design Thinking and AI
 - Useless AI workshop	(with [Molly Steenson](http://www.girlwonder.com/)) 
