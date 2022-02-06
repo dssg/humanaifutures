@@ -174,7 +174,9 @@ Each team will submit short assignments, do presentations, and lead as well as p
 
 ### Feb 15:	How do we figure out what AI we should build
  - Intro to Ethics and Value Systems: Guest Lecture by [Alex London](https://www.cmu.edu/dietrich/philosophy/people/faculty/london.html)	
- 
+
+<img src='images/assignment_orange.png' width='25'/> [*Assignment:*](https://canvas.cmu.edu/courses/27949/assignments/462030) Project Proposal Reviews due Feb 14th
+
 *Readings:*
 - A Theory of Justice by Rawls, J. 1971. Chapter 1: Justice as Fairness, pp. 1-19. [Available Online](https://github.com/dssg/mlforpublicpolicylab/blob/master/12%20-%20Algorithmic%20Bias%20and%20Fairness%20Pt%201/RawlsJustice.pdf)
 
