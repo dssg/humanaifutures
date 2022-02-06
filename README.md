@@ -102,8 +102,8 @@ Students will form teams and propose an area where AI is affecting society to fo
 
 Each team will submit short assignments, do presentations, and lead as well as participate in discussions around these components for the issue you propose to work on through the semester.
 1. [Project Proposal (Due Feb 7th)](https://canvas.cmu.edu/courses/27949/assignments/457363)
-2. [Peer Reviews of the Project Proposal](https://canvas.cmu.edu/courses/27949/assignments/462030)
-3. [Project Proposal Presentation](https://canvas.cmu.edu/courses/27949/assignments/462031) (5 minute presentation in class)
+2. [Peer Reviews of the Project Proposal (due Feb14th)](https://canvas.cmu.edu/courses/27949/assignments/462030)
+3. [Project Proposal Presentation (Feb 10th)](https://canvas.cmu.edu/courses/27949/assignments/462031) (5 minute presentation in class)
 4. Writing and presentation assignments throughout the semester
 5. Final Project Report (due the week of finals)
 6. Final Project Presentation (last week of classes)
