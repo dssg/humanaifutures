@@ -102,9 +102,9 @@ Students will form teams and propose an area where AI is affecting society to fo
 
 Each team will submit short assignments, do presentations, and lead as well as participate in discussions around these components for the issue you propose to work on through the semester.
 1. [Project Proposal (Due Feb 7th)](https://canvas.cmu.edu/courses/27949/assignments/457363)
-2. [Peer Reviews of the Project Proposal]()
-3. Project Proposal Presentation (5 minute presentation in class)
-4. Intermediate writing and presentation assignments throughout the semester
+2. [Peer Reviews of the Project Proposal](https://canvas.cmu.edu/courses/27949/assignments/462030)
+3. [Project Proposal Presentation](https://canvas.cmu.edu/courses/27949/assignments/462031) (5 minute presentation in class)
+4. Writing and presentation assignments throughout the semester
 5. Final Project Report (due the week of finals)
 6. Final Project Presentation (last week of classes)
 
@@ -169,6 +169,8 @@ Each team will submit short assignments, do presentations, and lead as well as p
 
 ### Feb 10:	Project Proposal Presentations		
 <img src='images/assignment_orange.png' width='25'/> [*Assignment:*](https://canvas.cmu.edu/courses/27949/assignments/462031) Project Proposal Presentation (in class)
+- Each team will have 5 minutes for their presentation and 3 minutes for questions from the class. We will need to be strict on the timing to make sure everyone has enough time to present.
+- Please [upload your slides on canvas as an assignment](https://canvas.cmu.edu/courses/27949/assignments/462031) as a PDF, PowerPoint file, or link to google slides prior to your group presentation.
 
 ### Feb 15:	How do we figure out what AI we should build
  - Intro to Ethics and Value Systems: Guest Lecture by [Alex London](https://www.cmu.edu/dietrich/philosophy/people/faculty/london.html)	
