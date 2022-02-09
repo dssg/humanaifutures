@@ -195,9 +195,12 @@ Each team will submit short assignments, do presentations, and lead as well as p
  - [Human values matter: why value-sensitive design should be part of every UX designer’s toolkit](https://uxdesign.cc/human-values-matter-why-value-sensitive-design-should-be-part-of-every-ux-designers-toolkit-e53ffe7ec436)
  - [Value Sensitive Design and Information Systems](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.138.1155&rep=rep1&type=pdf)(Skim this reading)
 
-### Mar 1:	How do we figure out how to tell AI what it needs to do			
+### Mar 1:	How do we figure out how to tell AI what it needs to do	
 
 ### Mar 3:	How do we figure out how to tell AI what it needs to do
+
+*Readings:*
+ - [Gitelman and Jackson, Raw Data is an Oxymoron (Introduction)](https://dsl.lsu.edu/nehtextualdata/wp-content/uploads/2017/11/RawData.pdf)
 
 ### Mar 8: Spring Break	(No Class)
 
