@@ -201,6 +201,8 @@ Each team will submit short assignments, do presentations, and lead as well as p
 
 *Readings:*
  - [Gitelman and Jackson, Raw Data is an Oxymoron (Introduction)](https://dsl.lsu.edu/nehtextualdata/wp-content/uploads/2017/11/RawData.pdf)
+ - Optional: [O’Neil, On Being a Data Skeptic](http://cdn.oreillystatic.com/oreilly/radarreport/0636920032328/On_Being_a_Data_Skeptic.pdf)
+
 
 ### Mar 8: Spring Break	(No Class)
 
