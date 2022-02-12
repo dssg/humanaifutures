@@ -177,7 +177,9 @@ Each team will submit short assignments, do presentations, and lead as well as p
 
 <img src='images/assignment_orange.png' width='25'/> [*Assignment:*](https://canvas.cmu.edu/courses/27949/assignments/462030) Project Proposal Reviews due Feb 14th
 
+**Before Class**: Please read the first paper and at least skim the second readingh and come to class prepared to discuss it. We know thede readings are a little more intense than others we've done this semester but this is an important topic and one we want to make sure we cover as we get into project work. WE'll come backto these trhroughout the semester so don't feel as if you have to understand everything in these the first time.
 *Readings:*
+- [AI4People - An Ethical Framework for a Good AI Society: Opportunities, Risks, Principles, and Recommendations](https://www.pure.ed.ac.uk/ws/portalfiles/portal/77587861/FloridiEtalMM2018AI4PeopleAnEthicalFrameworkFor.pdf)
 - A Theory of Justice by Rawls, J. 1971. Chapter 1: Justice as Fairness, pp. 1-19. [Available Online](https://github.com/dssg/mlforpublicpolicylab/blob/master/12%20-%20Algorithmic%20Bias%20and%20Fairness%20Pt%201/RawlsJustice.pdf)
 
 
