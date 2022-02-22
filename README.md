@@ -184,6 +184,8 @@ Each team will submit short assignments, do presentations, and lead as well as p
 
 
 ### Feb 17:	Recap of Module 1: Intro to AI, Design Thinking, and Ethics
+- <img src='images/lectureicon.png' width='25'/> [Lecture Slides](https://docs.google.com/presentation/d/1-Rzbs4XK2n1U0NqrM6WDGPYEBXhYsoM9SPbt_25mJDs/edit?usp=sharing)
+
 *Readings:*
 - [User Needs + Defining Success](https://pair.withgoogle.com/chapter/user-needs/)
 
