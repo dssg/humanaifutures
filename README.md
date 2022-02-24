@@ -191,6 +191,7 @@ Each team will submit short assignments, do presentations, and lead as well as p
 
 ### Feb 22:	How do we figure out what AI we should build
 - Guest Lecture by [Sarah Fox](https://www.sarahfox.info/)
+<img src='images/lectureicon.png' width='25'/> [Slides](https://drive.google.com/file/d/1WLWjsF1JrwtxjAOYh2s823sEF1wgBLd8/view?usp=sharing)
 
 ### Feb 24:	How do we figure out what AI we should build
  - Value Sensitive Design	(with Molly Steenson)
