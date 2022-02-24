@@ -193,7 +193,8 @@ Each team will submit short assignments, do presentations, and lead as well as p
 - Guest Lecture by [Sarah Fox](https://www.sarahfox.info/)
 
 ### Feb 24:	How do we figure out what AI we should build
- - Value Sensitive Design Workshop	(with Molly Steenson)
+ - Value Sensitive Design	(with Molly Steenson)
+ <img src='images/lectureicon.png' width='25'/> [Lecture Slides](https://docs.google.com/presentation/d/1NaoXLq1-xkOeM8YXgoX_yzf0hDs_wHzIoB3gfOiwiqw/edit#slide=id.p)
 
 *Readings:*
  - [Human values matter: why value-sensitive design should be part of every UX designer’s toolkit](https://uxdesign.cc/human-values-matter-why-value-sensitive-design-should-be-part-of-every-ux-designers-toolkit-e53ffe7ec436)
