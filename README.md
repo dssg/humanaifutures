@@ -223,15 +223,17 @@ Each team will submit short assignments, do presentations, and lead as well as p
 ### Mar 22:	How do we figure out how to tell AI what it needs to do	
 - <img src='images/lectureicon.png' width='25'/> [Slides](https://docs.google.com/presentation/d/1fsX9k5NwTl0bzN-3vQ3_9EP27u6-fAHLVlWDFQgSqgQ/edit#slide=id.p)
 - Project Discussion: We'll break up into groups an discuss AI design choices covered in the last two classes for the projects
-- 
+
 ### Mar 24:	How do we figure out how to tell AI what it needs to do		
 - Tech Demo
 
-### Mar 29:	Project Presentations
+### Mar 29:	How do we evaluate and monitor what has been built	
+<img src='images/assignment_orange.png' width='25'/> [*Assignment:*](https://canvas.cmu.edu/courses/27949/assignments/473603) Developing an AI System assignment due March 28
 
-### Mar 31:	How do we evaluate and monitor what has been built	
+### Mar 31:	Project Presentations
 
 ### Apr 5:	How do we evaluate and monitor what has been built	
+<img src='images/assignment_orange.png' width='25'/> [*Assignment:*](https://canvas.cmu.edu/courses/27949/assignments/473607) Developing an AI System assignment due April 4
 
 ### Apr 7:	No Class		
 
