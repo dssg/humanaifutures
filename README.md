@@ -221,7 +221,9 @@ Each team will submit short assignments, do presentations, and lead as well as p
 - <img src='images/lectureicon.png' width='25'/> [Lecture Slides](https://docs.google.com/presentation/d/14-K4VXc-biECUFF3J_PU91dJjWnWSbGcA5fJC4gf-T0/edit#slide=id.p)
 
 ### Mar 22:	How do we figure out how to tell AI what it needs to do	
-- Project Discussion
+- <img src='images/lectureicon.png' width='25'/> [Slides](https://docs.google.com/presentation/d/1fsX9k5NwTl0bzN-3vQ3_9EP27u6-fAHLVlWDFQgSqgQ/edit#slide=id.p)
+- Project Discussion: We'll break up into groups an discuss AI design choices covered in the last two classes for the projects
+- 
 ### Mar 24:	How do we figure out how to tell AI what it needs to do		
 - Tech Demo
 
