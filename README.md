@@ -215,14 +215,17 @@ Each team will submit short assignments, do presentations, and lead as well as p
 ### Mar 10:	Spring Break	(No Class)		
 
 ### Mar 15:	How do we figure out how to tell AI what it needs to do
+- <img src='images/lectureicon.png' width='25'/> [Lecture Slides](https://docs.google.com/presentation/d/14-K4VXc-biECUFF3J_PU91dJjWnWSbGcA5fJC4gf-T0/edit#slide=id.p)
 
-### Mar 17:	How do we figure out how to tell AI what it needs to do		
+### Mar 17:	How do we figure out how to tell AI what it needs to do	
+- <img src='images/lectureicon.png' width='25'/> [Lecture Slides](https://docs.google.com/presentation/d/14-K4VXc-biECUFF3J_PU91dJjWnWSbGcA5fJC4gf-T0/edit#slide=id.p)
 
 ### Mar 22:	How do we figure out how to tell AI what it needs to do	
+- Project Discussion
+### Mar 24:	How do we figure out how to tell AI what it needs to do		
+- Tech Demo
 
-### Mar 24:	Presentations	
-
-### Mar 29:	How do we evaluate and monitor what has been built
+### Mar 29:	Project Presentations
 
 ### Mar 31:	How do we evaluate and monitor what has been built	
 
