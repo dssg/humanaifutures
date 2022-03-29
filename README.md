@@ -230,14 +230,14 @@ Each team will submit short assignments, do presentations, and lead as well as p
 ### Mar 29:	How do we evaluate and monitor what has been built	
 <img src='images/assignment_orange.png' width='25'/> [*Assignment:*](https://canvas.cmu.edu/courses/27949/assignments/473603) Developing an AI System assignment due March 28
 
-### Mar 31:	Project Presentations
+### Mar 31:	How do we evaluate and monitor what has been built	
 
 ### Apr 5:	How do we evaluate and monitor what has been built	
 <img src='images/assignment_orange.png' width='25'/> [*Assignment:*](https://canvas.cmu.edu/courses/27949/assignments/473607) Developing an AI System assignment due April 4
 
 ### Apr 7:	No Class		
 
-### Apr 12:	How do we evaluate and monitor what has been built	
+### Apr 12:	Project Update Presentations: Focus on how you would train the models and what evaluation metric you would use
 
 ### Apr 14:	Bias and AI deeper dive			
 
