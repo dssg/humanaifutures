@@ -239,11 +239,18 @@ Each team will submit short assignments, do presentations, and lead as well as p
 
 ### Apr 12:	Project Update Presentations: Focus on how you would train the models and what evaluation metric you would use
 
-### Apr 14:	Bias and AI deeper dive			
+### Apr 14:	Bias and AI deeper dive
+ - Focus on Sources of bias when designing AI systems
+*Readings:*
+- [Kit T. Rodolfa, Pedro Saleiro, and Rayid Ghani, Bias and Fairness](https://textbook.coleridgeinitiative.org/chap-bias.html)
 
-### Apr 19	Bias and AI deeper dive		
+### Apr 19	Bias and AI deeper dive
+ - Detecting Bias in AI systems 
+*Readings:*
+ - [Aequitas, a bias audit toolkit](http://www.datasciencepublicpolicy.org/aequitas)
 
-### Apr 21:	Bias and AI deeper dive			
+### Apr 21:	Bias and AI deeper dive
+ - Mitigating Bias in AI systems
 
 ### Apr 26:	Final Presentations		
 
