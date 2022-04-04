@@ -238,14 +238,17 @@ Each team will submit short assignments, do presentations, and lead as well as p
 ### Apr 7:	No Class		
 
 ### Apr 12:	Project Update Presentations: Focus on how you would train the models and what evaluation metric you would use
+<img src='images/assignment_orange.png' width='25'/> [*Assignment:*](https://canvas.cmu.edu/courses/27949/assignments/475855) 5-minute Project Update Presentations
 
 ### Apr 14:	Bias and AI deeper dive
  - Focus on Sources of bias when designing AI systems
+
 *Readings:*
-- [Kit T. Rodolfa, Pedro Saleiro, and Rayid Ghani, Bias and Fairness](https://textbook.coleridgeinitiative.org/chap-bias.html)
+- [Kit Rodolfa, Pedro Saleiro, and Rayid Ghani: Bias and Fairness Book Chapter](https://textbook.coleridgeinitiative.org/chap-bias.html)
 
 ### Apr 19	Bias and AI deeper dive
  - Detecting Bias in AI systems 
+
 *Readings:*
  - [Aequitas, a bias audit toolkit](http://www.datasciencepublicpolicy.org/aequitas)
 
