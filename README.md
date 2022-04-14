@@ -242,18 +242,19 @@ Each team will submit short assignments, do presentations, and lead as well as p
 
 ### Apr 14:	Bias and AI deeper dive
  - Focus on Sources of bias when designing AI systems
+<img src='images/lectureicon.png' width='25'/> [Slides](https://docs.google.com/presentation/d/1cD7pKJo--SR2E7azl-Xqgptx9-xZuuCrZnJiJaJfKcs/edit?usp=sharing)
 
 *Readings:*
 - [Kit Rodolfa, Pedro Saleiro, and Rayid Ghani: Bias and Fairness Book Chapter](https://textbook.coleridgeinitiative.org/chap-bias.html)
 
 ### Apr 19	Bias and AI deeper dive
- - Detecting Bias in AI systems 
+ - Guest Lecture by Mike Skirpan 
 
 *Readings:*
  - [Aequitas, a bias audit toolkit](http://www.datasciencepublicpolicy.org/aequitas)
 
 ### Apr 21:	Bias and AI deeper dive
- - Mitigating Bias in AI systems
+ - Detecting and Mitigating Bias in AI systems
 
 ### Apr 26:	Final Presentations		
 
